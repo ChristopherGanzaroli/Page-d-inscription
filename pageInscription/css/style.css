@@ -1,0 +1,59 @@
+body{
+  background-image: url(../img/bg3.jfif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    /*background-color: #3040c4;*/
+
+  width: 100%;
+  height: 100vh; /* viewport heigth */
+  display: flex;
+  justify-content: center; /*axe horisotale */
+  align-items: center; /* axe verticale */ 
+  margin: 0;
+  padding: 0;
+  }
+
+#bg1{
+  background-image: url("../img/alan-emery-SYzUF6XcWBY-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+
+}
+
+#singup{
+  background-color: #01232f;
+  padding: 50px;
+ }
+
+
+.row {
+  width: 80vw;
+  height: 80vh;
+  }
+
+.form{
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+    color: white;
+  }
+
+  .button{
+    background: linear-gradient(90deg,#003643, #026f86);
+    border: 0;
+    border-radius: 1rem;
+    color: white;
+    width: 8vw;
+    
+    }
+
+
